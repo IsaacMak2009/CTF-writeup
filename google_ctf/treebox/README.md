@@ -1,4 +1,5 @@
 # Google CTF - TREEBOX (50 pts)
+##### type: sandbox
 ##### by [IsaacMak](https://github.com/IsaacMak2009)  
 ##
 first for all, let look at the `treebox.py`:
